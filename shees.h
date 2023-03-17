@@ -1,0 +1,39 @@
+/* Keywords */
+
+#define cap false
+#define facts true
+#define imagine if
+#define deadass return
+#define drip struct
+#define damn break
+#define frfr continue
+#define hypothetically switch
+#define maybe case
+#define whatever default
+#define based const
+#define bussy void
+#define ded static
+#define mf int
+#define simp char
+#define tea float
+#define bigass double
+#define longass long
+#define baby short
+#define mid unsigned
+#define cringe volatile
+
+/* Syntax */
+
+#define be =
+#define belike ==
+#define notlike !=
+#define rn ;
+#define no !
+#define goes {
+#define kinda }
+#define look *
+#define at &
+#define wit &&
+#define or ||
+#define actually ?
+#define tho :
